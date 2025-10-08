@@ -1,1 +1,1 @@
-https://github.com/slepgy/2025_BWT/blob/main/060_anchor/index.html
+https://github.com/slepgy/2025_BWT/060_anchor/index.html
